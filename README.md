@@ -1,9 +1,13 @@
 """
 (c) Evgeny Mironov
             _             __
+            
     __ . /  ( ..      __/ /
+    
 <   o  )))       . . -  \(
+
     `   ´´\| ´
+    
 """
 # reversi_py
 reversi game in python, I have started last weak for programming learning aims
