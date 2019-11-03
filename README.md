@@ -1,10 +1,6 @@
 # reversi_py
 (c) Evgeny Mironov
-.             _             __
-.     __ . /  ( ..      __/ /
-. <   o  )))       . . -  \(
-.     `   ´´\| ´
-.
+
 
 reversi game in python, I have started last weak for programming learning aims
 
