@@ -37,6 +37,7 @@ class Reversi:
             Reversi.set_chip(*a[0], 1)
         else:
             print('I skip. There are no possible moves for me :(')
+            Reversi.find_possible_next_steps(0)
 
     @staticmethod
     def reset_playground():
