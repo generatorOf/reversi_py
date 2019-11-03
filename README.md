@@ -2,7 +2,7 @@
 (c) Evgeny Mironov
 
 
-reversi game in python, I have started last weak for programming learning aims
+reversi game in python, I have started last week for programming learning aims
 
 first version works in terminal
 the next steps will be gui version
